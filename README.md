@@ -36,9 +36,12 @@
 ------------------------------------------------------------------------------------------
 
 ## Output
-![image](https://github.com/A00474445/React-Assignment/assets/144371607/df133ff8-f7ce-48e4-9544-c17a2b9b3db1)
-![image](https://github.com/A00474445/React-Assignment/assets/144371607/cec0d740-efc7-426f-a5b2-229eced1d4db)
-![image](https://github.com/A00474445/React-Assignment/assets/144371607/674a7fd1-5af1-4fd4-a677-5313d2d23797)
+![image](https://github.com/A00474445/React-Assignment/assets/144371607/111124f2-0e36-4369-ab15-fb691fdcab9c)
+![image](https://github.com/A00474445/React-Assignment/assets/144371607/4f5db6d3-27da-4fbd-bdbb-79ced1bcee00)
+![image](https://github.com/A00474445/React-Assignment/assets/144371607/a2225d56-f4ea-41f3-b1f8-23f813185784)
+
+
+
 
 
 

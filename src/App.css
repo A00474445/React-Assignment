@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+
+a {
+  color: black !important;
+}
+
+.brand-logo {
+  font-family: sans-serif;
+  padding-left: 30px !important;
+  font-size: 20px !important;
+}
+
+.waves-effect {
+  font-family: sans-serif;
+  color: white !important;
+}
+
+.aesthetic-line {
+  width: 70%;
+  height: 3px;
+  background: linear-gradient(90deg, #009688 0%, #FF6B57 100%);
+  border: none;
+  margin: 20px auto;
+}
+
+.halifax_image {
+  height: auto;
+  width: auto;
+}
+
+.icon_image {
+  height: 80px;
+  width: 80px;
+}
